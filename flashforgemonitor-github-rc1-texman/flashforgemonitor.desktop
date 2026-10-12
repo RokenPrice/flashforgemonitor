@@ -1,8 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=Flashforge Monitor
-Comment=Native desktop monitor for Flashforge Creator 5 series
-Exec=flashforgemonitor
-Icon=flashforgemonitor
-Terminal=false
-Categories=Utility;Graphics;

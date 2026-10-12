@@ -1,0 +1,6 @@
+{
+  "ip": "192.168.1.100",
+  "serial": "REPLACE_WITH_PRINTER_SERIAL",
+  "access_code": "REPLACE_WITH_ACCESS_CODE",
+  "poll_interval": 2
+}
